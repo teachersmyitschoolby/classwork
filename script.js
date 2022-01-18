@@ -6,3 +6,6 @@
 // git checkout -b Yauheni
 
 
+function sum (a, b) {
+    return a + b;
+}
