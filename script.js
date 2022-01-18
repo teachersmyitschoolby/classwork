@@ -6,3 +6,6 @@
 // git checkout -b Yauheni
 
 
+function test (a,b) {
+    return a+b
+}
